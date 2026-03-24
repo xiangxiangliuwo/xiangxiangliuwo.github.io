@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.zju.edu.cn/'>Zhejiang University</a>. Undergraduate.
 
 profile:
   align: right
@@ -27,8 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there! I am a senior student majoring in Automation at the College of Electrical Engineering, Zhejiang University. I was fortunate to be advised by [Prof. Ronghao Zheng](https://person.zju.edu.cn/ronghaozheng) during my undergraduate studies, and I joined Robotics and Autonomy Research Lab leb by [Prof. Mengxue Hou](https://www.mengxuehou.com/) at University of Notre Dame as a summer research intern in 2025. In the future, I will join
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My vision is to build intelligent agents that can perceive the world and make safe decisions. I am generally interested in trustworthy autonomous driving and multi-agent systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
