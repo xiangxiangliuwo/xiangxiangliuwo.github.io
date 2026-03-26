@@ -24,7 +24,7 @@ announcements:
 latest_posts:
   enabled: false
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 0 # leave blank to include all the blog posts
 ---
 
 Hi there! I am a senior student majoring in Automation at the College of Electrical Engineering, Zhejiang University. I was fortunate to be advised by [Prof. Ronghao Zheng](https://person.zju.edu.cn/ronghaozheng) during my undergraduate studies, and I joined Robotics and Autonomy Research Lab leb by [Prof. Mengxue Hou](https://www.mengxuehou.com/) at University of Notre Dame as a summer research intern in 2025. In the future, I will join
