@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "A summary of my academic journey, research experiences and publications is shown in this page. You can access a more detailed version via the PDF button at the top right corner.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
