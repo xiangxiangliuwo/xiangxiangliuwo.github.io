@@ -27,7 +27,7 @@ latest_posts:
   limit: 0 # leave blank to include all the blog posts
 ---
 
-Hi there! I am a senior student majoring in Automation at the College of Electrical Engineering, Zhejiang University. I was fortunate to be advised by [Prof. Ronghao Zheng](https://person.zju.edu.cn/ronghaozheng) during my undergraduate studies, and I joined Robotics and Autonomy Research Lab leb by [Prof. Mengxue Hou](https://www.mengxuehou.com/) at University of Notre Dame as a summer research intern in 2025. In the future, I will join
+Hi there! I am a senior student majoring in Automation at the College of Electrical Engineering, Zhejiang University. I was fortunate to be advised by [Prof. Ronghao Zheng](https://person.zju.edu.cn/ronghaozheng) during my undergraduate studies, and I joined Robotics and Autonomy Research Lab leb by [Prof. Mengxue Hou](https://www.mengxuehou.com/) at University of Notre Dame as a summer research intern in 2025. In the future, I will join [KAIST](https://www.kaist.ac.kr/en/) to pursue my Master's degree, working with [Prof. Heye Huang](https://scholar.google.com/citations?user=BWUpn24AAAAJ&hl=en&oi=ao) . Looking forward to it!
 
 My vision is to build intelligent agents that can perceive the world and make safe decisions. I am generally interested in trustworthy autonomous driving and multi-agent systems.
 
