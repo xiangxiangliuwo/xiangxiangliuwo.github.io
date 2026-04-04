@@ -4,7 +4,7 @@ cv:
   email: 3220105160@zju.edu.cn
   location: Hangzhou, Zhejiang, CN
   image: ""
-  summary: ""
+  summary: "A detailed version of my CV is available via the PDF button at the top right corner."
 
   social_networks:
     - network: GitHub
@@ -35,15 +35,12 @@ cv:
 
 
     Experience:
-    - institution: University of Notre Dame
+      - institution: University of Notre Dame
         location: Notre Dame, Indiana, US
         url: https://www.nd.edu/
-        studyType: Summer Intern
         start_date: "2025-07"
         end_date: "2025-09"
-        score: ""
-        courses: ""
-        highlights: ""
+        highlights: "Summer Research Intern"
       
 
 
