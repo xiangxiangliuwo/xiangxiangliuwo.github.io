@@ -1,8 +1,8 @@
 cv:
   name: Zuyi Guo
-  label: Student
-  email: 3220105160@zju.edu.cn
-  location: Hangzhou, Zhejiang, CN
+  label: Master Student
+  email: zzzzyguo@kaist.ac.kr
+  location: Daejeon, Republic of Korea
   image: ""
   summary: "A detailed version of my CV is available via the PDF button at the top right corner."
 
@@ -13,14 +13,26 @@ cv:
       username: 5NVcW7oAAAAJ
 
   address:
-    street: 38 Zheda Road, Xihu District
-    city: Hangzhou
-    region: Zhejiang
-    postalCode: 310027
-    countryCode: CN
+    street: "Building F, KAIST, 193 Munji-ro, Yuseong-gu"
+    city: Daejeon
+    region: ""
+    postalCode: "34051"
+    countryCode: KR
 
   sections:
     Education:
+
+      - institution: KAIST
+        location: Daejeon, KR
+        url: https://mo.kaist.ac.kr/en/
+        area: Cho Chun Shik Graduate School of Mobility
+        studyType: Master
+        start_date: 2026
+        end_date: present
+        score: ""
+        courses: ""
+        highlights: ""
+    
       - institution: Zhejiang University
         location: Hangzhou, Zhejiang, CN
         url: https://www.zju.edu.cn/english/
@@ -39,8 +51,8 @@ cv:
         position: Summer Research Intern
         location: Notre Dame, Indiana, US
         url: https://www.nd.edu/
-        start_date: 2025
-        end_date: 2025
+        start_date: "2025-07"
+        end_date: "2025-09"
       
       
 
