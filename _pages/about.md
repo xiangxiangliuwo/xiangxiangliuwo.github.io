@@ -28,5 +28,5 @@ latest_posts:
 
 Hi there! I am currently a Master student at Cho Chun Shik Graduate School of Mobility, KAIST, advised by Prof. [Heye Huang](https://huangheye.github.io/) . I received my bachelor’s degree from the College of Electrical Engineering at Zhejiang University, where I was fortunate to be advised by Prof. [Ronghao Zheng](https://person.zju.edu.cn/ronghaozheng), and I joined Robotics and Autonomy Research Lab leb by Prof. [Mengxue Hou](https://www.mengxuehou.com/) at University of Notre Dame as a summer research intern in 2025.
 
-My vision is to build intelligent agents that can perceive the world and make safe decisions. I am generally interested in trustworthy autonomous driving and multi-agent systems. I am also actively open to research discussions and industry connections! Feel free to email me if you are interested in collaborating! 
+My vision is to build intelligent agents that can perceive the world and make safe decisions. I am generally interested in <strong>trustworthy autonomous driving</strong> and <strong>LLM-driven agents</strong>. I am also actively open to research discussions and industry connections! Feel free to email me if you are interested in collaborating! 
 
