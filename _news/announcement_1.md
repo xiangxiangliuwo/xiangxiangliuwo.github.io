@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 One paper has been accepted by ACC 2026, congratulations！ 
+🎉 One paper has been accepted by *ACC 2026*, congratulations！ 
