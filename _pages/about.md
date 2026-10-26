@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.zju.edu.cn/'>Zhejiang University</a>. Undergraduate.
+subtitle: <a href='https://www.kaist.ac.kr/kr/'>KAIST</a>. Master Student.
 
 profile:
   align: right
@@ -26,7 +26,7 @@ latest_posts:
   limit: 0 # leave blank to include all the blog posts
 ---
 
-Hi there! I am a senior student majoring in Automation at the College of Electrical Engineering, Zhejiang University. I was fortunate to be advised by [Prof. Ronghao Zheng](https://person.zju.edu.cn/ronghaozheng) during my undergraduate studies, and I joined Robotics and Autonomy Research Lab leb by [Prof. Mengxue Hou](https://www.mengxuehou.com/) at University of Notre Dame as a summer research intern in 2025. In the future, I will join [KAIST](https://www.kaist.ac.kr/en/) to pursue my Master's degree, working with [Prof. Heye Huang](https://scholar.google.com/citations?user=BWUpn24AAAAJ&hl=en&oi=ao) . Looking forward to it!
+Hi there! I am currently a Master student at Cho Chun Shik Graduate School of Mobility, KAIST, advised by Prof. [Heye Huang](https://huangheye.github.io/) . I received my bachelor’s degree from the College of Electrical Engineering at Zhejiang University, where I was fortunate to be advised by Prof. [Ronghao Zheng](https://person.zju.edu.cn/ronghaozheng), and I joined Robotics and Autonomy Research Lab leb by [Prof. Mengxue Hou](https://www.mengxuehou.com/) at University of Notre Dame as a summer research intern in 2025.
 
-My vision is to build intelligent agents that can perceive the world and make safe decisions. I am generally interested in trustworthy autonomous driving and multi-agent systems.
+My vision is to build intelligent agents that can perceive the world and make safe decisions. I am generally interested in trustworthy autonomous driving and multi-agent systems. 
 
